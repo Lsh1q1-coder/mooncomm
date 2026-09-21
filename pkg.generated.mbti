@@ -1,0 +1,33 @@
+// Generated using `moon info`, DON'T EDIT IT
+package "username/mooncomm"
+
+// Values
+pub fn estimate_tree_time_ns(Int, Int, LinkModel) -> Int
+
+pub fn ring_allreduce_rounds(Int) -> Int
+
+pub fn supported_collectives() -> Array[Collective]
+
+pub fn transfer_time_ns(Int, LinkModel) -> Int
+
+pub fn tree_rounds(Int) -> Int
+
+// Errors
+
+// Types and methods
+pub enum Collective {
+  Scatter
+  Broadcast
+  AllGather
+  AllReduce
+}
+
+pub struct LinkModel {
+  latency_ns : Int
+  bandwidth_bytes_per_us : Int
+}
+pub fn LinkModel::new(Int, Int) -> Self
+
+// Type aliases
+
+// Traits
