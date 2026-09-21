@@ -53,8 +53,9 @@ rounds=3, estimated_ns=13788
 
 ## Project documents
 
-- [Chinese project proposal](docs/PROPOSAL.zh-CN.md)
-- Architecture and reproducible demos will be added with their implementations.
+Architecture notes and reproducible demos will be added with their
+implementations. The hackathon application proposal is authored and submitted
+separately by the participant.
 
 ## Development principles
 
