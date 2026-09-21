@@ -1,5 +1,5 @@
 import {
-  "username/mooncomm",
+  "lsh1q1-coder/mooncomm",
 }
 
 pkgtype(kind: "executable")

@@ -1,5 +1,5 @@
 // Generated using `moon info`, DON'T EDIT IT
-package "username/mooncomm"
+package "lsh1q1-coder/mooncomm"
 
 // Values
 pub fn estimate_tree_time_ns(Int, Int, LinkModel) -> Int

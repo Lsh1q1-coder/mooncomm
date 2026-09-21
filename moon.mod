@@ -9,13 +9,13 @@
 //   "moonbitlang/x@0.4.6",
 // }
 
-name = "username/mooncomm"
+name = "lsh1q1-coder/mooncomm"
 
 version = "0.1.0"
 
 readme = "README.mbt.md"
 
-repository = ""
+repository = "https://github.com/Lsh1q1-coder/mooncomm"
 
 license = "Apache-2.0"
 
